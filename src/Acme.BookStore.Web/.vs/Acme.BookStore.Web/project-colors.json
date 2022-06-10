@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "160f8cb7-b27b-4b92-b9ce-99d4ef0af8b8": {
+      "ProjectGuid": "160f8cb7-b27b-4b92-b9ce-99d4ef0af8b8",
+      "DisplayName": "Acme.BookStore.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

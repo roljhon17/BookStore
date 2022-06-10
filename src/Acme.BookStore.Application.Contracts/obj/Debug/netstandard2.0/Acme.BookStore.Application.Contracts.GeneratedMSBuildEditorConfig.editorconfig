@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Acme.BookStore
+build_property.ProjectDir = C:\Users\Modern 14\src\Acme.BookStore.Application.Contracts\
